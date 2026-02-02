@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I’m a software engineer passionate about build
 
 ---
 
-### 🏗️ [EnrollEase — System Architecture Design Project](https://github.com/MckennahPalmer/CSE430)
+### [EnrollEase — System Architecture Design Project](https://github.com/MckennahPalmer/CSE430)
 **Description:** A large-scale academic project focused on designing the architecture for a university course registration and scheduling system. The platform was envisioned to help students plan semesters, evaluate professors, and build optimized schedules through intelligent recommendations.
 
 **Tech/Concepts:** System Architecture, Software Design, API Integration Planning, Database Design, Authentication Systems, UML & System Diagrams  
@@ -91,7 +91,7 @@ Welcome to my GitHub portfolio! I’m a software engineer passionate about build
 
 ---
 
-### 🎵 [Media Inventory App](https://github.com/MckennahPalmer/CSE341_group_project)
+### [Media Inventory App](https://github.com/MckennahPalmer/CSE341_group_project)
 **Description:** A full-stack web application that allows users to store and manage different types of media, including music, movies, games, and books. Users can securely sign in and view their personal media inventory.
 
 **Tech:** JavaScript, HTML, CSS, Node.js, Authentication/OAuth  
